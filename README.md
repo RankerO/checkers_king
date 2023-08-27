@@ -85,43 +85,43 @@ backend setup done, now hit the most favourite command `npm start`
 
 ### home page light theme
 
-![home page light theme](https://drive.google.com/file/d/1tke8TXeiDNS_s_CQkFvWltgzFhtFMpUz/view?usp=sharing)
+![1](https://github.com/RankerO/checkers_king/assets/91595780/bbeaa2fc-f8df-408a-8ed0-9deccb5f3d69)
 
 ### home page dark
 
-![home page dark theme](https://drive.google.com/file/d/1WFVY86uwbcvTD8_f_oblCemGs7ID7Vo1)
+![2](https://github.com/RankerO/checkers_king/assets/91595780/921da1cc-7c13-411f-b338-a82c9f01b97c)
 
 ### game creation options
 
-![game create options](https://drive.google.com/file/d/1Q93Acj7roCd3jikDuaV0BxA71WSUT-n5/view?usp=sharing)
+![3](https://github.com/RankerO/checkers_king/assets/91595780/db43fdd1-d8ae-4e51-866b-07d903f1674e)
 
 ### profile section
 
-![profile](https://drive.google.com/file/d/1TmSXLCPQukJHDUdhQWJ9VZQZB_5Ybqa3/view?usp=sharing)
+![4](https://github.com/RankerO/checkers_king/assets/91595780/812d0b20-ac14-49d5-83d3-38695606ada3)
 
 ### previous matches
 
-![matches](https://drive.google.com/file/d/1c9jV3nk-_31ZylK5xQHzVPbbU0KzC39o/view?usp=sharing)
+![5](https://github.com/RankerO/checkers_king/assets/91595780/38162ecb-acca-4153-b215-abd90b5c1019)
 
 ### match replay
 
-![replay](https://drive.google.com/file/d/1PerV3YNnfSdVKHZoLr-wLj4eC3nbO5Bz/view?usp=sharing)
+![6](https://github.com/RankerO/checkers_king/assets/91595780/da05f00c-0dfc-42bc-a82d-f77c239a50c2)
 
 ### gameplay
 
-![gameboard](https://drive.google.com/file/d/18HMfgQFBI-Kvb9OOXh82GI9hbzlCfC7T/view?usp=sharing)
+![7](https://github.com/RankerO/checkers_king/assets/91595780/fac67213-70d8-4004-a9ae-90e53b2ac038)
 
 ### friend request
 
-![friend request modal](https://drive.google.com/file/d/1t0tIwd6Hhjp5voqREIq4RwppTReFmA2n/view?usp=sharing)
+![8](https://github.com/RankerO/checkers_king/assets/91595780/a52dbf3a-e0e1-4cf7-b9ee-33b8ff8e8795)
 
 ### draw modal
 
-![draw modal](https://drive.google.com/file/d/1zlVoPyiZI027J2Hv61XIKkmCsLRV7InC/view?usp=sharing)
+![9](https://github.com/RankerO/checkers_king/assets/91595780/9a047b8e-1351-4fd8-ace2-ed6180d7cf6e)
 
 ### online friends list
 
-![online friends list](https://drive.google.com/file/d/129R61FWFl48A-81mtE_xYHb2GkJO-73N/view?usp=sharing)
+![10](https://github.com/RankerO/checkers_king/assets/91595780/99c5b693-adba-4b4d-9fc2-8ec49893358e)
 ## contributors
 
 this is a team project made under the annual event **HACK_36** of MNNIT Allahabad.
