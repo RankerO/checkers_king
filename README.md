@@ -85,7 +85,7 @@ backend setup done, now hit the most favourite command `npm start`
 
 ### home page light theme
 
-![home page light theme](https://drive.google.com/file/d/1tke8TXeiDNS_s_CQkFvWltgzFhtFMpUz)
+![home page light theme](https://drive.google.com/file/d/1tke8TXeiDNS_s_CQkFvWltgzFhtFMpUz/view?usp=sharing)
 
 ### home page dark
 
@@ -93,36 +93,35 @@ backend setup done, now hit the most favourite command `npm start`
 
 ### game creation options
 
-![game create options](https://drive.google.com/file/d/1Q93Acj7roCd3jikDuaV0BxA71WSUT-n5)
+![game create options](https://drive.google.com/file/d/1Q93Acj7roCd3jikDuaV0BxA71WSUT-n5/view?usp=sharing)
 
 ### profile section
 
-![profile](https://drive.google.com/file/d/1TmSXLCPQukJHDUdhQWJ9VZQZB_5Ybqa3)
+![profile](https://drive.google.com/file/d/1TmSXLCPQukJHDUdhQWJ9VZQZB_5Ybqa3/view?usp=sharing)
 
 ### previous matches
 
-![matches](https://drive.google.com/file/d/1c9jV3nk-_31ZylK5xQHzVPbbU0KzC39o)
+![matches](https://drive.google.com/file/d/1c9jV3nk-_31ZylK5xQHzVPbbU0KzC39o/view?usp=sharing)
 
 ### match replay
 
-![replay](https://drive.google.com/file/d/1PerV3YNnfSdVKHZoLr-wLj4eC3nbO5Bz)
+![replay](https://drive.google.com/file/d/1PerV3YNnfSdVKHZoLr-wLj4eC3nbO5Bz/view?usp=sharing)
 
 ### gameplay
 
-![gameboard](https://drive.google.com/file/d/18HMfgQFBI-Kvb9OOXh82GI9hbzlCfC7T)
+![gameboard](https://drive.google.com/file/d/18HMfgQFBI-Kvb9OOXh82GI9hbzlCfC7T/view?usp=sharing)
 
 ### friend request
 
-![friend request modal](https://drive.google.com/file/d/1t0tIwd6Hhjp5voqREIq4RwppTReFmA2n)
+![friend request modal](https://drive.google.com/file/d/1t0tIwd6Hhjp5voqREIq4RwppTReFmA2n/view?usp=sharing)
 
 ### draw modal
 
-![draw modal](https://drive.google.com/file/d/1zlVoPyiZI027J2Hv61XIKkmCsLRV7InC)
+![draw modal](https://drive.google.com/file/d/1zlVoPyiZI027J2Hv61XIKkmCsLRV7InC/view?usp=sharing)
 
 ### online friends list
 
-![online friends list](https://drive.google.com/file/d/129R61FWFl48A-81mtE_xYHb2GkJO-73N)
-
+![online friends list](https://drive.google.com/file/d/129R61FWFl48A-81mtE_xYHb2GkJO-73N/view?usp=sharing)
 ## contributors
 
 this is a team project made under the annual event **HACK_36** of MNNIT Allahabad.
