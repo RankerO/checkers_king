@@ -83,15 +83,13 @@ backend setup done, now hit the most favourite command `npm start`
 
 ### images
 
-### home page light theme
-
+### Home page light theme
 ![1](https://github.com/RankerO/checkers_king/assets/91595780/bbeaa2fc-f8df-408a-8ed0-9deccb5f3d69)
 
 ### home page dark
-
 ![2](https://github.com/RankerO/checkers_king/assets/91595780/921da1cc-7c13-411f-b338-a82c9f01b97c)
 
-### game creation options
+### Game creation options
 
 ![3](https://github.com/RankerO/checkers_king/assets/91595780/db43fdd1-d8ae-4e51-866b-07d903f1674e)
 
